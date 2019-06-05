@@ -1,5 +1,5 @@
 // player de la clase Acordeon1
-// con el metodo f la clase recibe stings que son interpretados para generar sonido
+// con el metodo f la clase recibe strings que son interpretados para generar sonido.
 
 ~ac = Acordeon1.new // llama a la clase
 ~ac.run // play
